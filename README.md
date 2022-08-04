@@ -12,4 +12,4 @@ Basic game built with javascript and Phaser.js to make my hands dirty with 2d ga
 
 ### Live Demo
 
-(The Game)[]
+[The Game](https://coins-collector-game.vercel.app/)
